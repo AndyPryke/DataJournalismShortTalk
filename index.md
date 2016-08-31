@@ -138,13 +138,15 @@ What if someone plagerised your story?
 
 Where is the line for code?
  - Sometimes there is a licence, often not.
- 
 
+---
 
-## Bonus - Nice Packages
+## Bonus - Nice Packages begining with "D"
    * dplyr - transforming data
    * data.table - Fast handling of larger datasets (10's of Millions)
    * DT - nice display of tables in HTML
+
+---
 
 ---
 
