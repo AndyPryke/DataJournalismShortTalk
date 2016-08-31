@@ -1,8 +1,8 @@
 ---
 title       : How I use R
 subtitle    : Hacks & Hackers - Data Journalism
-author      : Andy Pryke
-framework   : io2012o        # {io2012, html5slides, shower, dzslides, ...}
+author      : Andy Pryke - Andy@The-Data-Mine.co.uk
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -20,7 +20,7 @@ knit        : slidify::knit2slides
 
    * Data Journalists Using R
    * Organising Projects
-   * Reproducability
+   * Reproducibility
    * Finding Out How to ...
    * Bonus - Nice Packages
 
@@ -54,7 +54,7 @@ http://blog.revolutionanalytics.com/2016/07/data-journalism-with-r-at-538.html
 --- 
 
 ## How I Organise Projects
-   * Keep original data somewhere seperate 
+   * Keep original data somewhere separate 
       * e.g. "originals" & "processed" directories
    * Start with a Rmarkdown file
    * Work on the command line then move code to file
@@ -66,7 +66,7 @@ http://blog.revolutionanalytics.com/2016/07/data-journalism-with-r-at-538.html
 
 ---
 
-## Reproducability - Why
+## Reproducibility - Why
 
 So...
    * ... **when** I make a mistake I can re-do the work instantly
@@ -77,7 +77,7 @@ So...
 
 ---
 
-## Reproducability - How
+## Reproducibility - How
 
    * Try to eliminate manual steps (within reason)
    * Use package "checkpoint" - to ensure you always use the same version of packages, even years later
@@ -136,9 +136,6 @@ What if someone copied your story?
  * Used the same themes?
  * etc.
 
-Where is the line for code?
- - Sometimes there is a licence, often not.
-
 ---
 
 ## Question...
@@ -166,7 +163,10 @@ Where is the line for code?
 
 ---
 
-## Bonus - Nice Packages begining with "D"
+
+---
+
+## Bonus - Nice Packages beginning with "D"
    * dplyr - transforming data
    * data.table - Fast handling of larger datasets (10's of Millions)
    * DT - nice display of tables in HTML

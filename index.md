@@ -1,8 +1,8 @@
 ---
 title       : How I use R
 subtitle    : Hacks & Hackers - Data Journalism
-author      : Andy Pryke
-framework   : io2012o        # {io2012, html5slides, shower, dzslides, ...}
+author      : Andy Pryke - Andy@The-Data-Mine.co.uk
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -136,9 +136,6 @@ What if someone copied your story?
  * Used the same themes?
  * etc.
 
-Where is the line for code?
- - Sometimes there is a licence, often not.
-
 ---
 
 ## Question...
@@ -163,6 +160,9 @@ What if someone copied your script?
 
 Where is the line for code?
  - Sometimes there is a licence, often not.
+
+---
+
 
 ---
 
