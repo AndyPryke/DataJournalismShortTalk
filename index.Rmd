@@ -2,7 +2,7 @@
 title       : How I use R
 subtitle    : Hacks & Hackers - Data Journalism
 author      : Andy Pryke
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012o        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -129,9 +129,34 @@ How do I use "datatable" from package "DT"
 
 ## Question...
 
-What if someone plagerised your story?
+What if someone copied your story?
  * All of it, exactly?
  * A paragraph?
+ * Rephrased it?
+ * Used the same themes?
+ * etc.
+
+Where is the line for code?
+ - Sometimes there is a licence, often not.
+
+---
+
+## Question...
+
+What if someone copied your script?
+ * All of it, exactly?
+ * A function?
+ * Rephrased it?
+ * Used the same themes?
+ * etc.
+
+---
+
+## Question...
+
+What if someone copied your script?
+ * All of it, exactly?
+ * A function?
  * Rephrased it?
  * Used the same themes?
  * etc.
