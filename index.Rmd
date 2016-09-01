@@ -24,6 +24,9 @@ knit        : slidify::knit2slides
    * Finding Out How to ...
    * Bonus - Nice Packages
 
+These slides: [source (Slidify / R Markdown)](https://github.com/AndyPryke/DataJournalismShortTalk),
+[view online](https://andypryke.github.io/DataJournalismShortTalk/)
+
 --- 
 
 ## Data Journalists Using R	
@@ -166,12 +169,17 @@ Where is the line for code?
 
 ---
 
+## Extra slides follow....
+
+---
+
 ## Bonus - Nice Packages beginning with "D"
    * dplyr - transforming data
    * data.table - Fast handling of larger datasets (10's of Millions)
    * DT - nice display of tables in HTML
 
 ---
+
 
 ---
 
